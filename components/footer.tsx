@@ -14,7 +14,7 @@ const Footer = () => {
               Instagram
             </a>
             <a
-              href={"https://www.linkedin.com/company/tatvani/}
+              href={"https://www.linkedin.com/company/tatvani/"}
               className="mx-3 font-bold hover:underline"
             >
               LinkedIn
